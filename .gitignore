@@ -394,5 +394,12 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+# User specific
+**/.idea/**/workspace.xml
+**/.idea/**/tasks.xml
+**/.idea/shelf/*
+**/.idea/dictionaries
+**/.idea/httpRequests/
+
 # JetBrains Rider
 *.sln.iml
